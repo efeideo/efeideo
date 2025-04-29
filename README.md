@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @efeideo
-Lets make the world a real place.
+Corporate account
 
 <!---
 efeideo/efeideo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
